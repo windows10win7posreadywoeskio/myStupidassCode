@@ -1,0 +1,181 @@
+public class main {
+	
+	public static void main(String[] args) {
+		
+		code p = new code();
+		
+		Headfones hp = new Headfones();
+		
+		System.out.println("PEN STATUS:");
+		System.out.println(p.color);
+		System.out.println(p.point);
+		System.out.println(p.type);
+		
+		System.out.println(p.clicked);
+		
+		p.click();
+		
+		System.out.println(p.clicked);
+		System.out.println("HEADPHONES STATUS:");
+		
+		System.out.println(hp.power);
+		System.out.println(hp.volume);
+		System.out.println(hp.charge);
+		System.out.println(hp.charging);
+		System.out.println(hp.controls);
+		System.out.println(hp.color);
+		
+		hp.powerOn();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		hp.volUp();
+		
+		System.out.println(hp.power);
+		System.out.println(hp.volume);
+		
+		System.out.println(hp.volume);
+		hp.off();
+		System.out.println(hp.power);
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		hp.volDown();
+		System.out.println(hp.volume);
+		hp.charge();
+		System.out.println(hp.charging);
+		
+	}
+
+}
